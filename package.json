@@ -1,0 +1,27 @@
+{
+  "name": "jerry",
+  "version": "1.0.0",
+  "description": "I go for the cheese every once in a while! Hope I don't get hurt!!",
+  "main": "the-monitor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rickbala/jerry.git"
+  },
+  "keywords": [
+    "monitor",
+    "500"
+  ],
+  "author": "rickbala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rickbala/jerry/issues"
+  },
+  "homepage": "https://github.com/rickbala/jerry#readme",
+  "dependencies": {
+    "request": "^2.88.0",
+    "yargs": "^14.0.0"
+  }
+}
